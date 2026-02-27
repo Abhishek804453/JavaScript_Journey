@@ -84,7 +84,8 @@ console.log(instructor);
 // {
 //     "name": "Abhishek",
 //     "coursename": "js in hindi",
-//     "price":"free" 
+//     "price":"free"  
+
 // }
 
 [
